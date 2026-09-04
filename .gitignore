@@ -1,0 +1,15 @@
+# Ignore downloaded and generated images
+unsplash_real/
+generated_fake/
+coco_images/
+lfw_images/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
