@@ -87,6 +87,8 @@ json.loads(Image.open("dataset/images/L5_fake_001.jpg").getexif()[0x9286])
 
 ## The two models
 
+As requested, the model used was the same before and after the use of the sensibility scale. It was use a simple model since the bad experience on stable diffusion and the fear of excessive resource use on the machine.
+
 Identical backbone (ResNet-18, ImageNet init), identical splits, identical
 augmentation. The only difference is whether the level is used while training.
 
@@ -115,6 +117,7 @@ between seeds on its own. Results, per-level breakdowns and all figures land in
 `results/REPORT.md`.
 
 ## The 10 vs 12 category question
+During the development, and image research, level 4 (International Danger) and 5 (military danger) were as we went more and more similar, especially in today perspective, Therefore L4 and L5 were basically fused (also, not so many fake war picture exist) and considered as almost the same. Different countries have different threshold for the use of force...
 
 The brief lists ten categories — five levels, each split real/deepfake — with
 L4 and L5 treated as roughly equivalent. Here they are kept apart, giving
@@ -129,3 +132,30 @@ The synthetic images exist to train and evaluate a detector. They depict no
 real person, no real event and no real brand; product prompts are generic
 categories rather than trademarks, and portrait prompts specify fictional
 subjects. Each generated file is marked as synthetic in its EXIF.
+
+## SOURCES, AI, DISCLAIMER
+
+The AI was used mainly in code development, especially for tuning the stable diffusion (quite tricky) code and the model for recognition. 
+It was obviously used for image generation, in particular the L0Deepfake some are made with bing image generator, but only a 30% (due to the author ban after high usage...)
+
+Journalist sources:
+
+For creating the scale:
+From the New York Times:
+https://www.nytimes.com/2026/05/21/us/spencer-pratt-ai-videos.html?searchResultPosition=36
+https://www.nytimes.com/interactive/2025/06/29/business/ai-video-deepfake-google-veo-3-quiz.html
+https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html
+https://www.nytimes.com/video/opinion/100000006635241/deepfakes-adele-disinformation.html
+https://www.nytimes.com/interactive/2025/06/29/business/ai-video-deepfake-google-veo-3-quiz.html
+
+From the Wall Street Journal:
+https://www.wsj.com/tech/ai-deepfake-nudes-bullying-school-d242b8d4
+https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad
+https://deloitte.wsj.com/sustainable-business/ais-deepfake-challenge-1b6ca04b
+
+From Semafor:
+https://www.semafor.com/article/10/24/2024/ai-deepfakes-should-be-a-concern-for-intelligence-agencies-worldwide-hive-ceo-says
+https://www.semafor.com/article/01/28/2025/surge-in-deepfakes-heightens-fraud-risk-for-african-businesses
+
+Also less used, Adam Tooze and his Chartbook newsletter, Joanna Stern (both WSJ and her newsletter).
+
