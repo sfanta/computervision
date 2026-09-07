@@ -1,9 +1,6 @@
 # Deepfake detection with sensitivity-level awareness
-
-A deepfake image detector trained twice on the same data: once as a plain
-real-vs-fake classifier, and once with the *sensitivity level* of each image
-used as a training signal, so that mistakes on politically or militarily
-sensitive imagery are penalised harder than mistakes on abstract textures.
+The project consist of creating a database on which to train a model able to recognise the original from the ai-created, but adding a "sensitivity" layer that keeps in count the impact that a fake image may have on the population. Therefore it was first created a sensitivity scale, created by the authors based on personal opinions. *Disclaimer:* the scale is heavily modelled on a journalist world perspective, due to one of the author passion for it and in general the opinion that deepfake works *as long as* media coverage uses it to depict the reality. Therefore it's not a neutral nor the only scale which could be used. The results may and most probably where influenced by this complex scale, and shall be taken as they are, *linked* to this scale. 
+Also, satire was initially thought to be used also as a comparison, as deemed important in this case. However several factors including the lack of large database of it, the extreme regionalisation of the phenomena and the objective difficulties of the authors themselves in understanding many of the images. Smaller dataset may be found (i.e. reddit scraping) but to be useful regionalisation shall be made and this was harder then expected and therein excluded. AI was used, for code, but not entirely. Full AI usage and sources are listed down.
 
 ## Sensitivity levels
 
