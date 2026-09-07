@@ -152,7 +152,9 @@ https://www.nytimes.com/interactive/2025/06/29/business/ai-video-deepfake-google
 From the Wall Street Journal:
 
 https://www.wsj.com/tech/ai-deepfake-nudes-bullying-school-d242b8d4
+
 https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad
+
 https://deloitte.wsj.com/sustainable-business/ais-deepfake-challenge-1b6ca04b
 
 From Semafor:
