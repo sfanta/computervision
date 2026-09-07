@@ -142,6 +142,7 @@ Journalist sources:
 
 For creating the scale:
 From the New York Times:
+
 https://www.nytimes.com/2026/05/21/us/spencer-pratt-ai-videos.html?searchResultPosition=36
 https://www.nytimes.com/interactive/2025/06/29/business/ai-video-deepfake-google-veo-3-quiz.html
 https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html
@@ -149,11 +150,13 @@ https://www.nytimes.com/video/opinion/100000006635241/deepfakes-adele-disinforma
 https://www.nytimes.com/interactive/2025/06/29/business/ai-video-deepfake-google-veo-3-quiz.html
 
 From the Wall Street Journal:
+
 https://www.wsj.com/tech/ai-deepfake-nudes-bullying-school-d242b8d4
 https://www.wsj.com/politics/elections/ai-deepfakes-are-getting-weirder-and-harder-to-spot-in-the-midterms-88b4f7ad
 https://deloitte.wsj.com/sustainable-business/ais-deepfake-challenge-1b6ca04b
 
 From Semafor:
+
 https://www.semafor.com/article/10/24/2024/ai-deepfakes-should-be-a-concern-for-intelligence-agencies-worldwide-hive-ceo-says
 https://www.semafor.com/article/01/28/2025/surge-in-deepfakes-heightens-fraud-risk-for-african-businesses
 
