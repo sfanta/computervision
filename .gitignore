@@ -13,3 +13,17 @@ __pycache__/
 
 # Ignore macOS system files
 .DS_Store
+
+# Local python environment
+.venv/
+
+# Working pools and the normalised copy of the dataset -- all regenerable
+# (images/L*Real and images/L*DeepFake stay tracked, as before).
+images/_candidates/
+images/_pool/
+dataset/
+openfake_real/
+openfake_fake/
+
+# Trained weights (regenerate with scripts/06_train.py)
+results/*.pt

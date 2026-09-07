@@ -1,0 +1,601 @@
+image_id,file_path,level,level_idx,level_name,label,is_fake,severity_weight,source,split,orig_width,orig_height,orig_path,sha1
+L0_fake_001,dataset/images/L0_fake_001.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_027.jpg,5dcef578237409b1
+L0_fake_002,dataset/images/L0_fake_002.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_026.jpg,4fad5ecfefd8b141
+L0_fake_003,dataset/images/L0_fake_003.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Random_colour_splash_image-2.jpg,9ce5b2188ddc3a0a
+L0_fake_004,dataset/images/L0_fake_004.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Noise_frattale-2.jpg,b2748e4c89722c79
+L0_fake_005,dataset/images/L0_fake_005.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_004.jpg,f9ba5cb540acbff0
+L0_fake_006,dataset/images/L0_fake_006.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_014.jpg,5320a5081e1d7fd6
+L0_fake_007,dataset/images/L0_fake_007.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/3d_procedural_geometric_render-2.jpg,2c27f617de618465
+L0_fake_008,dataset/images/L0_fake_008.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/3d_procedural_geometric_render-1.jpg,0dbaba6bcc8089ef
+L0_fake_009,dataset/images/L0_fake_009.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Random_colour_splash_image.jpg,071b70e7bb3f4ac1
+L0_fake_010,dataset/images/L0_fake_010.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/3d_procedural_geometric_render.jpg,8e9f66e35496a632
+L0_fake_011,dataset/images/L0_fake_011.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_013.jpg,d6d50da0f0313fa9
+L0_fake_012,dataset/images/L0_fake_012.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Noise_frattale-3.jpg,b386b6660d6534f3
+L0_fake_013,dataset/images/L0_fake_013.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_023.jpg,18c10bc05d7a5f00
+L0_fake_014,dataset/images/L0_fake_014.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_007.jpg,123853db26f952fe
+L0_fake_015,dataset/images/L0_fake_015.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_001.jpg,5bb0626440901573
+L0_fake_016,dataset/images/L0_fake_016.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_030.jpg,5cb22e4965b6d008
+L0_fake_017,dataset/images/L0_fake_017.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_033.jpg,7dfb7626be6ec99c
+L0_fake_018,dataset/images/L0_fake_018.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_002.jpg,150f1c3636466813
+L0_fake_019,dataset/images/L0_fake_019.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_010.jpg,4a59c76c281de090
+L0_fake_020,dataset/images/L0_fake_020.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_022.jpg,91195d543657c8b8
+L0_fake_021,dataset/images/L0_fake_021.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_015.jpg,7da2a9e6984f5d30
+L0_fake_022,dataset/images/L0_fake_022.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_006.jpg,92f46f9a208077a0
+L0_fake_023,dataset/images/L0_fake_023.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_017.jpg,616dc7b4ee3d3d43
+L0_fake_024,dataset/images/L0_fake_024.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_016.jpg,19ae7b4732ff0a94
+L0_fake_025,dataset/images/L0_fake_025.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_012.jpg,527e2c9799de61ad
+L0_fake_026,dataset/images/L0_fake_026.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_034.jpg,c73f054b81ec570d
+L0_fake_027,dataset/images/L0_fake_027.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Noise_frattale.jpg,59c3eead385adf75
+L0_fake_028,dataset/images/L0_fake_028.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_011.jpg,51214fe0992b5292
+L0_fake_029,dataset/images/L0_fake_029.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_005.jpg,d4c44f3e57e1671d
+L0_fake_030,dataset/images/L0_fake_030.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_018.jpg,7bfeb056e44b0425
+L0_fake_031,dataset/images/L0_fake_031.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Noise_frattale-1.jpg,89d0c718ab31181c
+L0_fake_032,dataset/images/L0_fake_032.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_032.jpg,fadbd2bf2d00aa08
+L0_fake_033,dataset/images/L0_fake_033.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,train,1248,832,images/L0DeepFake/Abstract_image-3.jpg,c713afc58c99c253
+L0_fake_034,dataset/images/L0_fake_034.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_028.jpg,d2eca8a7b1fe5b79
+L0_fake_035,dataset/images/L0_fake_035.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,train,512,512,images/L0DeepFake/sd_abstract_031.jpg,a103d9a21f8a4870
+L0_fake_036,dataset/images/L0_fake_036.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,val,512,512,images/L0DeepFake/sd_abstract_029.jpg,d14c227b2a716525
+L0_fake_037,dataset/images/L0_fake_037.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,val,1248,832,images/L0DeepFake/Random_colour_splash_image-3.jpg,95a2e10feb0925b6
+L0_fake_038,dataset/images/L0_fake_038.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,val,1248,832,images/L0DeepFake/3d_procedural_geometric_render-3.jpg,a99815330e2319d5
+L0_fake_039,dataset/images/L0_fake_039.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,val,1248,832,images/L0DeepFake/Abstract_image-1.jpg,fde55ecb0d51bd00
+L0_fake_040,dataset/images/L0_fake_040.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,val,1248,832,images/L0DeepFake/Random_colour_splash_image-1.jpg,8eabf1dd0ce9aa2f
+L0_fake_041,dataset/images/L0_fake_041.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,val,512,512,images/L0DeepFake/sd_abstract_021.jpg,4ea71c9213346b9d
+L0_fake_042,dataset/images/L0_fake_042.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,val,512,512,images/L0DeepFake/sd_abstract_008.jpg,71b13caf765fe93d
+L0_fake_043,dataset/images/L0_fake_043.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,val,512,512,images/L0DeepFake/sd_abstract_024.jpg,aa34e7e5dddc27db
+L0_fake_044,dataset/images/L0_fake_044.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,test,512,512,images/L0DeepFake/sd_abstract_025.jpg,936b4f3cb608e999
+L0_fake_045,dataset/images/L0_fake_045.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,test,512,512,images/L0DeepFake/sd_abstract_003.jpg,d3c5ff4c4f13dd7b
+L0_fake_046,dataset/images/L0_fake_046.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,test,512,512,images/L0DeepFake/sd_abstract_020.jpg,e9a2fcc575083179
+L0_fake_047,dataset/images/L0_fake_047.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,test,1248,832,images/L0DeepFake/Abstract_image-2.jpg,677b997f63b78fbd
+L0_fake_048,dataset/images/L0_fake_048.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,test,512,512,images/L0DeepFake/sd_abstract_009.jpg,0598927402d16c9b
+L0_fake_049,dataset/images/L0_fake_049.jpg,L0,0,Procedural / abstract,fake,1,0.5,bing-image-creator,test,1248,832,images/L0DeepFake/Abstract_image.jpg,32456700f813a663
+L0_fake_050,dataset/images/L0_fake_050.jpg,L0,0,Procedural / abstract,fake,1,0.5,stable-diffusion-1.5,test,512,512,images/L0DeepFake/sd_abstract_019.jpg,8751fd697b783964
+L0_real_001,dataset/images/L0_real_001.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,322,326,images/L0Real/dtd_026.jpg,4748e5a80f00ad4a
+L0_real_002,dataset/images/L0_real_002.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,400,300,images/L0Real/dtd_024.jpg,d176aecb39c6a10f
+L0_real_003,dataset/images/L0_real_003.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,512,images/L0Real/dtd_020.jpg,aaf2bfa01efa8043
+L0_real_004,dataset/images/L0_real_004.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,624,images/L0Real/dtd_012.jpg,7279d95c4a76905b
+L0_real_005,dataset/images/L0_real_005.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,452,370,images/L0Real/dtd_005.jpg,2b6a5ead44891f3b
+L0_real_006,dataset/images/L0_real_006.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,639,426,images/L0Real/dtd_046.jpg,0d3d4df8b2b7a86b
+L0_real_007,dataset/images/L0_real_007.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,480,images/L0Real/dtd_027.jpg,7d2f72a43731409b
+L0_real_008,dataset/images/L0_real_008.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,600,622,images/L0Real/dtd_010.jpg,7c6ac8cd4ad0322c
+L0_real_009,dataset/images/L0_real_009.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,500,500,images/L0Real/dtd_030.jpg,02d9953154182e67
+L0_real_010,dataset/images/L0_real_010.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,527,images/L0Real/dtd_017.jpg,7662096ba7f6bb9f
+L0_real_011,dataset/images/L0_real_011.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,567,615,images/L0Real/dtd_032.jpg,a067b5ae265e7fc7
+L0_real_012,dataset/images/L0_real_012.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,485,465,images/L0Real/dtd_022.jpg,24b1cc5644f17912
+L0_real_013,dataset/images/L0_real_013.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,540,images/L0Real/dtd_013.jpg,17983d4791c9cbf2
+L0_real_014,dataset/images/L0_real_014.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,360,images/L0Real/dtd_004.jpg,0b6e222dd9d28474
+L0_real_015,dataset/images/L0_real_015.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,558,553,images/L0Real/dtd_040.jpg,1a92310413ed2fee
+L0_real_016,dataset/images/L0_real_016.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,334,380,images/L0Real/dtd_039.jpg,a98e5e5c1b77c4a8
+L0_real_017,dataset/images/L0_real_017.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,447,images/L0Real/dtd_011.jpg,475ea94154ddbf6b
+L0_real_018,dataset/images/L0_real_018.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,373,387,images/L0Real/dtd_025.jpg,104439c36801f146
+L0_real_019,dataset/images/L0_real_019.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,517,images/L0Real/dtd_036.jpg,ca67b0e6f59de34d
+L0_real_020,dataset/images/L0_real_020.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,480,images/L0Real/dtd_001.jpg,38fffe6da5380bc9
+L0_real_021,dataset/images/L0_real_021.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,302,309,images/L0Real/dtd_044.jpg,6962eded7b9a1373
+L0_real_022,dataset/images/L0_real_022.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,512,512,images/L0Real/dtd_019.jpg,0d7a7d0e8aff92a2
+L0_real_023,dataset/images/L0_real_023.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,627,487,images/L0Real/dtd_034.jpg,d88d18d3bef40280
+L0_real_024,dataset/images/L0_real_024.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,374,526,images/L0Real/dtd_049.jpg,8224082210059b61
+L0_real_025,dataset/images/L0_real_025.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,512,512,images/L0Real/dtd_042.jpg,d53ac4b8abcf25c8
+L0_real_026,dataset/images/L0_real_026.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,382,476,images/L0Real/dtd_031.jpg,e1ba03415a3d8d8a
+L0_real_027,dataset/images/L0_real_027.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,501,501,images/L0Real/dtd_029.jpg,6671d7908a8c1c3c
+L0_real_028,dataset/images/L0_real_028.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,380,360,images/L0Real/dtd_021.jpg,1540430e87795419
+L0_real_029,dataset/images/L0_real_029.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,530,431,images/L0Real/dtd_023.jpg,7da472ec2345af23
+L0_real_030,dataset/images/L0_real_030.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,358,354,images/L0Real/dtd_043.jpg,b3f9017d3d47e4aa
+L0_real_031,dataset/images/L0_real_031.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,640,634,images/L0Real/dtd_047.jpg,05189eb729a622af
+L0_real_032,dataset/images/L0_real_032.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,350,352,images/L0Real/dtd_037.jpg,7fd3019817010594
+L0_real_033,dataset/images/L0_real_033.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,360,360,images/L0Real/dtd_033.jpg,5ade6f6a968387bc
+L0_real_034,dataset/images/L0_real_034.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,590,393,images/L0Real/dtd_045.jpg,2a1bb09582d85db4
+L0_real_035,dataset/images/L0_real_035.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,train,480,640,images/L0Real/dtd_014.jpg,7843134d2653979c
+L0_real_036,dataset/images/L0_real_036.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,660,310,images/L0Real/dtd_050.jpg,80eba9df2e745de6
+L0_real_037,dataset/images/L0_real_037.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,626,528,images/L0Real/dtd_048.jpg,d7c905482b282b2b
+L0_real_038,dataset/images/L0_real_038.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,300,300,images/L0Real/dtd_003.jpg,e7ee1888928377f4
+L0_real_039,dataset/images/L0_real_039.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,432,432,images/L0Real/dtd_028.jpg,dc8574235580ee46
+L0_real_040,dataset/images/L0_real_040.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,400,400,images/L0Real/dtd_038.jpg,a4d0409de1228675
+L0_real_041,dataset/images/L0_real_041.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,435,506,images/L0Real/dtd_006.jpg,ea66a936b726bdb7
+L0_real_042,dataset/images/L0_real_042.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,360,360,images/L0Real/dtd_035.jpg,2b7488256d19537a
+L0_real_043,dataset/images/L0_real_043.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,val,640,525,images/L0Real/dtd_007.jpg,7a51c46d300acb26
+L0_real_044,dataset/images/L0_real_044.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,318,308,images/L0Real/dtd_009.jpg,eaf63ada51a633ff
+L0_real_045,dataset/images/L0_real_045.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,465,426,images/L0Real/dtd_015.jpg,798663c393ffe7e7
+L0_real_046,dataset/images/L0_real_046.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,437,373,images/L0Real/dtd_016.jpg,2078354edff5be44
+L0_real_047,dataset/images/L0_real_047.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,640,480,images/L0Real/dtd_018.jpg,06c05b91f6ec7e4e
+L0_real_048,dataset/images/L0_real_048.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,600,600,images/L0Real/dtd_002.jpg,2f4e876742077f2a
+L0_real_049,dataset/images/L0_real_049.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,376,639,images/L0Real/dtd_008.jpg,da2f41e3efe3d16b
+L0_real_050,dataset/images/L0_real_050.jpg,L0,0,Procedural / abstract,real,0,0.5,dtd,test,408,408,images/L0Real/dtd_041.jpg,7a2159dc3e16fff4
+L1_fake_001,dataset/images/L1_fake_001.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_024.jpg,68a440e608fc4eb0
+L1_fake_002,dataset/images/L1_fake_002.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_004.jpg,60ef3e788ba40e79
+L1_fake_003,dataset/images/L1_fake_003.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person14.jpeg,028265fb1bb571a1
+L1_fake_004,dataset/images/L1_fake_004.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person21.jpeg,bb290fda14361463
+L1_fake_005,dataset/images/L1_fake_005.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_013.jpg,cc6fc318cbf60032
+L1_fake_006,dataset/images/L1_fake_006.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person31.jpeg,17dba9a835b188c1
+L1_fake_007,dataset/images/L1_fake_007.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person3.jpeg,b7e1e5ff06573133
+L1_fake_008,dataset/images/L1_fake_008.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_017.jpg,7abec75ce1602577
+L1_fake_009,dataset/images/L1_fake_009.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_003.jpg,1a6cff99eda8ae06
+L1_fake_010,dataset/images/L1_fake_010.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person25.jpeg,3a2074c0366beecf
+L1_fake_011,dataset/images/L1_fake_011.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person22.jpeg,14c2fd01e4ee66ea
+L1_fake_012,dataset/images/L1_fake_012.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person17.jpeg,8bc3189a48df3beb
+L1_fake_013,dataset/images/L1_fake_013.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person29.jpeg,2cb3c9ff7be0c2dd
+L1_fake_014,dataset/images/L1_fake_014.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_010.jpg,12217ca0251be537
+L1_fake_015,dataset/images/L1_fake_015.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_021.jpg,ea9fb771248ccce5
+L1_fake_016,dataset/images/L1_fake_016.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person13.jpeg,6ddbe2bc80171ed1
+L1_fake_017,dataset/images/L1_fake_017.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_007.jpg,6855707117932b6d
+L1_fake_018,dataset/images/L1_fake_018.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_006.jpg,5d1938ef07b4b9c3
+L1_fake_019,dataset/images/L1_fake_019.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_015.jpg,54315856b5508699
+L1_fake_020,dataset/images/L1_fake_020.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person11.jpeg,494dfab06d19eba9
+L1_fake_021,dataset/images/L1_fake_021.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person26.jpeg,1e5991fa531db4ea
+L1_fake_022,dataset/images/L1_fake_022.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_011.jpg,d52d3982c08caba5
+L1_fake_023,dataset/images/L1_fake_023.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person10.jpeg,2d0a933c75ddbe6c
+L1_fake_024,dataset/images/L1_fake_024.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person16.jpeg,6bc65ccf119bdc8a
+L1_fake_025,dataset/images/L1_fake_025.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_012.jpg,4770e262a822205c
+L1_fake_026,dataset/images/L1_fake_026.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_001.jpg,3da9ec29d96ded81
+L1_fake_027,dataset/images/L1_fake_027.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_002.jpg,8a5988e638e97732
+L1_fake_028,dataset/images/L1_fake_028.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_019.jpg,c42bafdeb829ad25
+L1_fake_029,dataset/images/L1_fake_029.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person12.jpeg,8c59c2e565810523
+L1_fake_030,dataset/images/L1_fake_030.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_014.jpg,2768ce9a76ad5c8c
+L1_fake_031,dataset/images/L1_fake_031.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person23.jpeg,fb91c61f4be311c2
+L1_fake_032,dataset/images/L1_fake_032.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,train,1024,1024,images/L1DeepFake/random-person28.jpeg,5dedd728d5655557
+L1_fake_033,dataset/images/L1_fake_033.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_023.jpg,962eefab19c51c08
+L1_fake_034,dataset/images/L1_fake_034.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_009.jpg,5db9041087fe735a
+L1_fake_035,dataset/images/L1_fake_035.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,train,512,512,images/L1DeepFake/sd_scene_025.jpg,7c11a5377b8371ac
+L1_fake_036,dataset/images/L1_fake_036.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,val,1024,1024,images/L1DeepFake/random-person30.jpeg,c89231e513bab033
+L1_fake_037,dataset/images/L1_fake_037.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,val,1024,1024,images/L1DeepFake/random-person18.jpeg,f48ed78a94a5f0b5
+L1_fake_038,dataset/images/L1_fake_038.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,val,1024,1024,images/L1DeepFake/random-person20.jpeg,9199b7cc0f57e72d
+L1_fake_039,dataset/images/L1_fake_039.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,val,512,512,images/L1DeepFake/sd_scene_018.jpg,3a6ea696363dc627
+L1_fake_040,dataset/images/L1_fake_040.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,val,1024,1024,images/L1DeepFake/random-person27.jpeg,6877beaa9c4cf2eb
+L1_fake_041,dataset/images/L1_fake_041.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,val,512,512,images/L1DeepFake/sd_scene_016.jpg,5f6744fb23c22546
+L1_fake_042,dataset/images/L1_fake_042.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,val,1024,1024,images/L1DeepFake/random-person15.jpeg,20881d27cc0337a2
+L1_fake_043,dataset/images/L1_fake_043.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,val,512,512,images/L1DeepFake/sd_scene_020.jpg,f60d07a538576077
+L1_fake_044,dataset/images/L1_fake_044.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,test,1024,1024,images/L1DeepFake/random-person2.jpeg,2ef7677fafdc7c74
+L1_fake_045,dataset/images/L1_fake_045.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,test,512,512,images/L1DeepFake/sd_scene_008.jpg,2522f4471cb4f027
+L1_fake_046,dataset/images/L1_fake_046.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,test,1024,1024,images/L1DeepFake/random-person24.jpeg,b839ec48376e810b
+L1_fake_047,dataset/images/L1_fake_047.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,test,512,512,images/L1DeepFake/sd_scene_022.jpg,11d9cf08e9bb279b
+L1_fake_048,dataset/images/L1_fake_048.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,test,1024,1024,images/L1DeepFake/random-person.jpeg,0c933417db81da73
+L1_fake_049,dataset/images/L1_fake_049.jpg,L1,1,Everyday,fake,1,1.0,stable-diffusion-1.5,test,512,512,images/L1DeepFake/sd_scene_005.jpg,5ded49d608dbdfcc
+L1_fake_050,dataset/images/L1_fake_050.jpg,L1,1,Everyday,fake,1,1.0,thispersondoesnotexist,test,1024,1024,images/L1DeepFake/random-person19.jpeg,750bbfcfea294b43
+L1_real_001,dataset/images/L1_real_001.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,480,images/L1Real/coco_023.jpg,a06b4aa5ae2535fc
+L1_real_002,dataset/images/L1_real_002.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,480,images/L1Real/coco_019.jpg,e22a2a905259add5
+L1_real_003,dataset/images/L1_real_003.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,434,images/L1Real/coco_011.jpg,780236fa5161e97e
+L1_real_004,dataset/images/L1_real_004.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,427,640,images/L1Real/coco_015.jpg,84416eb90ff3f72b
+L1_real_005,dataset/images/L1_real_005.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,500,400,images/L1Real/coco_018.jpg,2c5ed3ad41fb02ef
+L1_real_006,dataset/images/L1_real_006.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,500,375,images/L1Real/coco_020.jpg,be45ba311c3648f8
+L1_real_007,dataset/images/L1_real_007.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,427,images/L1Real/coco_007.jpg,97562575fdee8873
+L1_real_008,dataset/images/L1_real_008.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_031.jpg,075b0326723bd10e
+L1_real_009,dataset/images/L1_real_009.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,333,500,images/L1Real/coco_024.jpg,3db1552f261badb3
+L1_real_010,dataset/images/L1_real_010.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,500,335,images/L1Real/coco_001.jpg,e356ac25ce44f32a
+L1_real_011,dataset/images/L1_real_011.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_027.jpg,fdec63670d958805
+L1_real_012,dataset/images/L1_real_012.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,360,images/L1Real/coco_022.jpg,948e9fc0feffde56
+L1_real_013,dataset/images/L1_real_013.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_038.jpg,6756b9b4a3849cdf
+L1_real_014,dataset/images/L1_real_014.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_041.jpg,6a5d354c5668e47a
+L1_real_015,dataset/images/L1_real_015.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_040.jpg,62dc80398b16e787
+L1_real_016,dataset/images/L1_real_016.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_033.jpg,ba5d9ba1239c0cae
+L1_real_017,dataset/images/L1_real_017.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,500,333,images/L1Real/coco_013.jpg,aca0c1e2b0644819
+L1_real_018,dataset/images/L1_real_018.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_044.jpg,64062aaea3265c02
+L1_real_019,dataset/images/L1_real_019.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_048.jpg,0fe242483357ecad
+L1_real_020,dataset/images/L1_real_020.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,426,images/L1Real/coco_006.jpg,a358914c1613daaa
+L1_real_021,dataset/images/L1_real_021.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_047.jpg,597d487b1769aa7d
+L1_real_022,dataset/images/L1_real_022.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_029.jpg,532fb2a1eff43749
+L1_real_023,dataset/images/L1_real_023.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,612,612,images/L1Real/coco_004.jpg,718e32a9590d9a43
+L1_real_024,dataset/images/L1_real_024.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,427,640,images/L1Real/coco_002.jpg,3983bcb501f2ce19
+L1_real_025,dataset/images/L1_real_025.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,480,images/L1Real/coco_025.jpg,9991688e33136704
+L1_real_026,dataset/images/L1_real_026.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,482,images/L1Real/coco_003.jpg,07af7cf08f298b48
+L1_real_027,dataset/images/L1_real_027.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_049.jpg,fab43f343b8c75ad
+L1_real_028,dataset/images/L1_real_028.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_034.jpg,bac62f086b152c8b
+L1_real_029,dataset/images/L1_real_029.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,480,images/L1Real/coco_005.jpg,515236213d7e7c28
+L1_real_030,dataset/images/L1_real_030.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,426,images/L1Real/coco_008.jpg,ac8478135f7c9140
+L1_real_031,dataset/images/L1_real_031.jpg,L1,1,Everyday,real,0,1.0,coco2017,train,640,433,images/L1Real/coco_012.jpg,1edc6912841ebc73
+L1_real_032,dataset/images/L1_real_032.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_043.jpg,4d1dcdcef786abfb
+L1_real_033,dataset/images/L1_real_033.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_028.jpg,945b11a467ca0472
+L1_real_034,dataset/images/L1_real_034.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_039.jpg,4bc7c6a1ef799c74
+L1_real_035,dataset/images/L1_real_035.jpg,L1,1,Everyday,real,0,1.0,ffhq,train,256,256,images/L1Real/ffhq_035.jpg,37c29b0461208bea
+L1_real_036,dataset/images/L1_real_036.jpg,L1,1,Everyday,real,0,1.0,ffhq,val,256,256,images/L1Real/ffhq_036.jpg,04dd6a635b4c7b77
+L1_real_037,dataset/images/L1_real_037.jpg,L1,1,Everyday,real,0,1.0,coco2017,val,640,384,images/L1Real/coco_016.jpg,4fb1efb162e965d3
+L1_real_038,dataset/images/L1_real_038.jpg,L1,1,Everyday,real,0,1.0,coco2017,val,640,480,images/L1Real/coco_009.jpg,d3e0270557ad768b
+L1_real_039,dataset/images/L1_real_039.jpg,L1,1,Everyday,real,0,1.0,coco2017,val,500,375,images/L1Real/coco_017.jpg,37ab9bf871a1dbdc
+L1_real_040,dataset/images/L1_real_040.jpg,L1,1,Everyday,real,0,1.0,coco2017,val,640,480,images/L1Real/coco_010.jpg,e9260a40134de91f
+L1_real_041,dataset/images/L1_real_041.jpg,L1,1,Everyday,real,0,1.0,ffhq,val,256,256,images/L1Real/ffhq_030.jpg,398eb1222262dd3e
+L1_real_042,dataset/images/L1_real_042.jpg,L1,1,Everyday,real,0,1.0,ffhq,val,256,256,images/L1Real/ffhq_045.jpg,4e757904e46a1496
+L1_real_043,dataset/images/L1_real_043.jpg,L1,1,Everyday,real,0,1.0,ffhq,val,256,256,images/L1Real/ffhq_026.jpg,1adbbf5ef0ab3a22
+L1_real_044,dataset/images/L1_real_044.jpg,L1,1,Everyday,real,0,1.0,ffhq,test,256,256,images/L1Real/ffhq_032.jpg,ba114598065358b7
+L1_real_045,dataset/images/L1_real_045.jpg,L1,1,Everyday,real,0,1.0,ffhq,test,256,256,images/L1Real/ffhq_042.jpg,1a93df1b82853789
+L1_real_046,dataset/images/L1_real_046.jpg,L1,1,Everyday,real,0,1.0,ffhq,test,256,256,images/L1Real/ffhq_050.jpg,779b3ddb52f812ec
+L1_real_047,dataset/images/L1_real_047.jpg,L1,1,Everyday,real,0,1.0,coco2017,test,640,480,images/L1Real/coco_021.jpg,5d88e5b6cce52134
+L1_real_048,dataset/images/L1_real_048.jpg,L1,1,Everyday,real,0,1.0,ffhq,test,256,256,images/L1Real/ffhq_046.jpg,7f90476100cb4301
+L1_real_049,dataset/images/L1_real_049.jpg,L1,1,Everyday,real,0,1.0,ffhq,test,256,256,images/L1Real/ffhq_037.jpg,1270f053c07e33af
+L1_real_050,dataset/images/L1_real_050.jpg,L1,1,Everyday,real,0,1.0,coco2017,test,640,427,images/L1Real/coco_014.jpg,c46916348dbb9587
+L2_fake_001,dataset/images/L2_fake_001.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_033.jpg,ba6c07134e878c91
+L2_fake_002,dataset/images/L2_fake_002.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_011.jpg,c51f50c5b2e34b36
+L2_fake_003,dataset/images/L2_fake_003.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_017.jpg,877ed4d00c67d468
+L2_fake_004,dataset/images/L2_fake_004.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_019.jpg,2dea0e56b432fa57
+L2_fake_005,dataset/images/L2_fake_005.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_031.jpg,d6f6acfa5cd52986
+L2_fake_006,dataset/images/L2_fake_006.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_010.jpg,c262b0d506669f3e
+L2_fake_007,dataset/images/L2_fake_007.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_020.jpg,6ee3bd82548daf7c
+L2_fake_008,dataset/images/L2_fake_008.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_040.jpg,8903ac4188ed6c12
+L2_fake_009,dataset/images/L2_fake_009.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_042.jpg,7c8c607a496d725a
+L2_fake_010,dataset/images/L2_fake_010.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_049.jpg,431433e465528898
+L2_fake_011,dataset/images/L2_fake_011.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_015.jpg,ffda4b09a100d13f
+L2_fake_012,dataset/images/L2_fake_012.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_027.jpg,844442956706dcda
+L2_fake_013,dataset/images/L2_fake_013.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_044.jpg,0aac10638c8bb71d
+L2_fake_014,dataset/images/L2_fake_014.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_023.jpg,2e14a3adb51d28e0
+L2_fake_015,dataset/images/L2_fake_015.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_036.jpg,5b0d053630bf163d
+L2_fake_016,dataset/images/L2_fake_016.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_039.jpg,60263203f4c02955
+L2_fake_017,dataset/images/L2_fake_017.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_032.jpg,f832fc976cf8061e
+L2_fake_018,dataset/images/L2_fake_018.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_021.jpg,36437b1075db597d
+L2_fake_019,dataset/images/L2_fake_019.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_026.jpg,e77034bcd1b7d1c4
+L2_fake_020,dataset/images/L2_fake_020.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_002.jpg,d609388fc989653e
+L2_fake_021,dataset/images/L2_fake_021.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_045.jpg,462eaf8e73c625ee
+L2_fake_022,dataset/images/L2_fake_022.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_034.jpg,f6d7c3aa503040e9
+L2_fake_023,dataset/images/L2_fake_023.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_024.jpg,1f037751e29d22a0
+L2_fake_024,dataset/images/L2_fake_024.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_037.jpg,f7baa21d608c62e4
+L2_fake_025,dataset/images/L2_fake_025.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_014.jpg,41201575edba8f18
+L2_fake_026,dataset/images/L2_fake_026.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_006.jpg,1b08e3407c0f86e1
+L2_fake_027,dataset/images/L2_fake_027.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_008.jpg,177e2873227ab01a
+L2_fake_028,dataset/images/L2_fake_028.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_041.jpg,e9df8a7654161d9b
+L2_fake_029,dataset/images/L2_fake_029.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_025.jpg,8941650ed7451746
+L2_fake_030,dataset/images/L2_fake_030.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_038.jpg,2c9518688cd0dd69
+L2_fake_031,dataset/images/L2_fake_031.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_003.jpg,a38d8af7eec80a27
+L2_fake_032,dataset/images/L2_fake_032.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_001.jpg,4d9be36b4b0b03a8
+L2_fake_033,dataset/images/L2_fake_033.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_004.jpg,98998e391705cba0
+L2_fake_034,dataset/images/L2_fake_034.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_048.jpg,70464d9deed4b9b5
+L2_fake_035,dataset/images/L2_fake_035.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,train,512,512,images/L2DeepFake/sd_product_043.jpg,8d8337535e7bc010
+L2_fake_036,dataset/images/L2_fake_036.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_005.jpg,67f26a5c881a9d7f
+L2_fake_037,dataset/images/L2_fake_037.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_050.jpg,491e7be83913fd16
+L2_fake_038,dataset/images/L2_fake_038.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_030.jpg,9269f1fdc8d79db2
+L2_fake_039,dataset/images/L2_fake_039.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_018.jpg,ce965301c4775339
+L2_fake_040,dataset/images/L2_fake_040.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_012.jpg,377154e59a81f9ad
+L2_fake_041,dataset/images/L2_fake_041.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_028.jpg,3280c727676fe40a
+L2_fake_042,dataset/images/L2_fake_042.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_009.jpg,324941a4409cc625
+L2_fake_043,dataset/images/L2_fake_043.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,val,512,512,images/L2DeepFake/sd_product_029.jpg,3a75d9ebb8591449
+L2_fake_044,dataset/images/L2_fake_044.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_035.jpg,f19ed36ffd544856
+L2_fake_045,dataset/images/L2_fake_045.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_046.jpg,e52f16aa2ff3d041
+L2_fake_046,dataset/images/L2_fake_046.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_013.jpg,bf49fae58c8d47c7
+L2_fake_047,dataset/images/L2_fake_047.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_016.jpg,f97b2689f36f4590
+L2_fake_048,dataset/images/L2_fake_048.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_007.jpg,e72552a0e5286c87
+L2_fake_049,dataset/images/L2_fake_049.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_022.jpg,14377a5922e51932
+L2_fake_050,dataset/images/L2_fake_050.jpg,L2,2,Commercial,fake,1,1.5,stable-diffusion-1.5-img2img,test,512,512,images/L2DeepFake/sd_product_047.jpg,bd65e0b77dbce3d4
+L2_real_001,dataset/images/L2_real_001.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/81d76f54.jpg,e03cc62d0b9f7f75
+L2_real_002,dataset/images/L2_real_002.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,134,images/L2Real/9f4e2aa1.jpg,7bd4fcc3f9dab617
+L2_real_003,dataset/images/L2_real_003.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/7546b814.jpg,f6d29769a5aae196
+L2_real_004,dataset/images/L2_real_004.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/5b338554.jpg,bda2f81958f885d4
+L2_real_005,dataset/images/L2_real_005.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,223,256,images/L2Real/bfb1cc24.jpg,186cf8645356baae
+L2_real_006,dataset/images/L2_real_006.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/7f8323cc.jpg,19515aa1ae19319e
+L2_real_007,dataset/images/L2_real_007.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/abo_047.jpg,05330fbdf687a924
+L2_real_008,dataset/images/L2_real_008.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,242,256,images/L2Real/3658f08d.jpg,90b8e6b3260e15e6
+L2_real_009,dataset/images/L2_real_009.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/1f9eff69.jpg,ca44bea1f94bbf58
+L2_real_010,dataset/images/L2_real_010.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/4ce31136.jpg,2d8e54c6bd8a5368
+L2_real_011,dataset/images/L2_real_011.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/3ad61d5d.jpg,4f087e2837a867b6
+L2_real_012,dataset/images/L2_real_012.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/9eb78afb.jpg,cbf3333251d5cb69
+L2_real_013,dataset/images/L2_real_013.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,138,images/L2Real/f0da0713.jpg,99fb869ee6a15c32
+L2_real_014,dataset/images/L2_real_014.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,209,256,images/L2Real/60d4680f.jpg,53ff99c277bac937
+L2_real_015,dataset/images/L2_real_015.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/48973cac.jpg,f233e5bdb6d12844
+L2_real_016,dataset/images/L2_real_016.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,90,images/L2Real/5ddec866.jpg,9612a54fee5e706d
+L2_real_017,dataset/images/L2_real_017.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/7d524485.jpg,8176434a61f07cc4
+L2_real_018,dataset/images/L2_real_018.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,247,images/L2Real/6f415cf3.jpg,74eccb702b21bdb0
+L2_real_019,dataset/images/L2_real_019.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/abo_046.jpg,bd38ebad72e36e3d
+L2_real_020,dataset/images/L2_real_020.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,232,images/L2Real/5810c13d.jpg,219ce898bb0073af
+L2_real_021,dataset/images/L2_real_021.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/29672be0.jpg,5d06941290562b77
+L2_real_022,dataset/images/L2_real_022.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/e0f6448a.jpg,492403e8334ef3d6
+L2_real_023,dataset/images/L2_real_023.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/d79be74a.jpg,96662926239cd8ae
+L2_real_024,dataset/images/L2_real_024.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/30b7b765.jpg,300fe722870d1d7d
+L2_real_025,dataset/images/L2_real_025.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,142,images/L2Real/e7e90dbc.jpg,68ae517960de3d5d
+L2_real_026,dataset/images/L2_real_026.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,232,256,images/L2Real/5628e58e.jpg,445a447e8fd33f5f
+L2_real_027,dataset/images/L2_real_027.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/06d2b41e.jpg,8527a08b41122f13
+L2_real_028,dataset/images/L2_real_028.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,181,images/L2Real/377b94a0.jpg,e3dad7c72dad6644
+L2_real_029,dataset/images/L2_real_029.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,134,256,images/L2Real/86cdf5ce.jpg,0a7907f65102142e
+L2_real_030,dataset/images/L2_real_030.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/d22d093c.jpg,1a889c62d96230e0
+L2_real_031,dataset/images/L2_real_031.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/ec8d7874.jpg,7c7cfb96014d257d
+L2_real_032,dataset/images/L2_real_032.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/abo_049.jpg,17bad4bfe679d9e7
+L2_real_033,dataset/images/L2_real_033.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,256,images/L2Real/af3dc165.jpg,ea5fae65fad5eacd
+L2_real_034,dataset/images/L2_real_034.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,219,256,images/L2Real/1723e558.jpg,bafc1d2edbf77616
+L2_real_035,dataset/images/L2_real_035.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,train,256,232,images/L2Real/dd084cd9.jpg,ec1861c32fb73b48
+L2_real_036,dataset/images/L2_real_036.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,256,256,images/L2Real/01e5740b.jpg,ab9f2968f0c076ea
+L2_real_037,dataset/images/L2_real_037.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,66,256,images/L2Real/b963ae32.jpg,99883d105df705bf
+L2_real_038,dataset/images/L2_real_038.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,192,256,images/L2Real/cbbf14e6.jpg,0ea4468cfb7cf340
+L2_real_039,dataset/images/L2_real_039.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,194,256,images/L2Real/df804a12.jpg,b2dce761f5c79b74
+L2_real_040,dataset/images/L2_real_040.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,133,256,images/L2Real/abo_050.jpg,8422194d98aa1f9d
+L2_real_041,dataset/images/L2_real_041.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,134,256,images/L2Real/b6498bad.jpg,14998b87f03d55bd
+L2_real_042,dataset/images/L2_real_042.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,256,256,images/L2Real/060cfb81.jpg,84a0495a3f55c0ab
+L2_real_043,dataset/images/L2_real_043.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,val,197,256,images/L2Real/6e69c887.jpg,5959a5805336b178
+L2_real_044,dataset/images/L2_real_044.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,256,256,images/L2Real/1ce4d1f5.jpg,a64e8867dc4a59f9
+L2_real_045,dataset/images/L2_real_045.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,256,248,images/L2Real/4e4a10dd.jpg,78d378c7cccf3b0f
+L2_real_046,dataset/images/L2_real_046.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,256,256,images/L2Real/4ef433a0.jpg,e2ff94af04bd78d2
+L2_real_047,dataset/images/L2_real_047.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,171,256,images/L2Real/2a731e2f.jpg,92d16d5f0b5397ea
+L2_real_048,dataset/images/L2_real_048.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,256,256,images/L2Real/fc54d670.jpg,b61d693f79548b38
+L2_real_049,dataset/images/L2_real_049.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,256,198,images/L2Real/abo_048.jpg,b6c443c2577b8467
+L2_real_050,dataset/images/L2_real_050.jpg,L2,2,Commercial,real,0,1.5,amazon-berkeley-objects,test,219,256,images/L2Real/8da1ea8e.jpg,9e31a33b53a7dc9c
+L3_fake_001,dataset/images/L3_fake_001.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_030.jpg,6c79cd51db1bc71f
+L3_fake_002,dataset/images/L3_fake_002.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_027.jpg,22a9b773677568de
+L3_fake_003,dataset/images/L3_fake_003.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_028.jpg,51f9e95a667922b2
+L3_fake_004,dataset/images/L3_fake_004.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_006.jpg,823e1ca54e2362f1
+L3_fake_005,dataset/images/L3_fake_005.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_012.jpg,dd2a7e79dc3244ba
+L3_fake_006,dataset/images/L3_fake_006.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_003.jpg,fe23714a5c79d180
+L3_fake_007,dataset/images/L3_fake_007.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_008.jpg,7c32c4708b4a263f
+L3_fake_008,dataset/images/L3_fake_008.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_013.jpg,a0bbd8f8e0195505
+L3_fake_009,dataset/images/L3_fake_009.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_026.jpg,c6ab52b25a36ac55
+L3_fake_010,dataset/images/L3_fake_010.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_047.jpg,150134cf4a509416
+L3_fake_011,dataset/images/L3_fake_011.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_021.jpg,1d71fcb7b5568da7
+L3_fake_012,dataset/images/L3_fake_012.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_002.jpg,152295a4bcb243b8
+L3_fake_013,dataset/images/L3_fake_013.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_037.jpg,6a0c4da4a9dac333
+L3_fake_014,dataset/images/L3_fake_014.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_014.jpg,75656f0245b1057c
+L3_fake_015,dataset/images/L3_fake_015.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_015.jpg,95b2a595b5766c40
+L3_fake_016,dataset/images/L3_fake_016.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_043.jpg,c71c8ccb6e8ffaee
+L3_fake_017,dataset/images/L3_fake_017.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_045.jpg,eb9282fddbf19056
+L3_fake_018,dataset/images/L3_fake_018.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_032.jpg,a3e4e82a4d95513d
+L3_fake_019,dataset/images/L3_fake_019.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_025.jpg,366d0d23d112a13a
+L3_fake_020,dataset/images/L3_fake_020.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_022.jpg,3c0a2940b4127d98
+L3_fake_021,dataset/images/L3_fake_021.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_042.jpg,6af13ec415dc8bfc
+L3_fake_022,dataset/images/L3_fake_022.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_038.jpg,aa9aef6e6d4c3af4
+L3_fake_023,dataset/images/L3_fake_023.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_040.jpg,40644b7683797fe3
+L3_fake_024,dataset/images/L3_fake_024.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_010.jpg,77a7d5119aacb52f
+L3_fake_025,dataset/images/L3_fake_025.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_050.jpg,b5a0846fccfaae9b
+L3_fake_026,dataset/images/L3_fake_026.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_046.jpg,af7d9765c323e58f
+L3_fake_027,dataset/images/L3_fake_027.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_018.jpg,15f600195da16b76
+L3_fake_028,dataset/images/L3_fake_028.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_044.jpg,88fae60936757393
+L3_fake_029,dataset/images/L3_fake_029.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_031.jpg,84b5517fbfe97a39
+L3_fake_030,dataset/images/L3_fake_030.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_041.jpg,89fbb79c15a9737f
+L3_fake_031,dataset/images/L3_fake_031.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_004.jpg,15679fb70e9b707a
+L3_fake_032,dataset/images/L3_fake_032.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_049.jpg,336438dcb3b08244
+L3_fake_033,dataset/images/L3_fake_033.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_048.jpg,eb2a76e08f53fd2a
+L3_fake_034,dataset/images/L3_fake_034.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_007.jpg,3ac9a6f6b3119d9a
+L3_fake_035,dataset/images/L3_fake_035.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,train,512,512,images/L3DeepFake/sd_portrait_039.jpg,0ff7e89fa242746d
+L3_fake_036,dataset/images/L3_fake_036.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_036.jpg,bd6f727e476d543d
+L3_fake_037,dataset/images/L3_fake_037.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_001.jpg,66d843f9bf7522c6
+L3_fake_038,dataset/images/L3_fake_038.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_034.jpg,54b47a0bfb04c772
+L3_fake_039,dataset/images/L3_fake_039.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_020.jpg,ddb0d476d8349648
+L3_fake_040,dataset/images/L3_fake_040.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_035.jpg,1ff50a6e8d285ec9
+L3_fake_041,dataset/images/L3_fake_041.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_029.jpg,fb0cd9b81f85a157
+L3_fake_042,dataset/images/L3_fake_042.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_011.jpg,4cbcf63049b10bde
+L3_fake_043,dataset/images/L3_fake_043.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,val,512,512,images/L3DeepFake/sd_portrait_019.jpg,1af5ce26ac2e1f34
+L3_fake_044,dataset/images/L3_fake_044.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_024.jpg,df488542e502f577
+L3_fake_045,dataset/images/L3_fake_045.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_016.jpg,4bc0dffe64726549
+L3_fake_046,dataset/images/L3_fake_046.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_005.jpg,84162cb25f1bdc08
+L3_fake_047,dataset/images/L3_fake_047.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_023.jpg,b3273c96ac742ea4
+L3_fake_048,dataset/images/L3_fake_048.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_009.jpg,0d912d43dee79f32
+L3_fake_049,dataset/images/L3_fake_049.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_017.jpg,82c27dfb25d73221
+L3_fake_050,dataset/images/L3_fake_050.jpg,L3,3,Identifiable people / national,fake,1,2.5,stable-diffusion-1.5,test,512,512,images/L3DeepFake/sd_portrait_033.jpg,8eaeaca789a22da0
+L3_real_001,dataset/images/L3_real_001.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1280,images/L3Real/commons_person_035.jpg,80d24745b5c5cc40
+L3_real_002,dataset/images/L3_real_002.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_018.jpg,13aa291a158918db
+L3_real_003,dataset/images/L3_real_003.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_007.jpg,4c83f3b2a7cf4293
+L3_real_004,dataset/images/L3_real_004.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1341,images/L3Real/commons_person_040.jpg,e1d4094f00509729
+L3_real_005,dataset/images/L3_real_005.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_021.jpg,60de3de4b6b502d9
+L3_real_006,dataset/images/L3_real_006.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_016.jpg,6ebbc3080acddf0e
+L3_real_007,dataset/images/L3_real_007.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,300,450,images/L3Real/commons_person_026.jpg,d2cea4a0b74ad0ac
+L3_real_008,dataset/images/L3_real_008.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_004.jpg,2b17f8509382a13c
+L3_real_009,dataset/images/L3_real_009.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_014.jpg,5374a0428b52e002
+L3_real_010,dataset/images/L3_real_010.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1302,images/L3Real/commons_person_050.jpg,e11ce17c49b52ef7
+L3_real_011,dataset/images/L3_real_011.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_011.jpg,a8cbc7037ea35bf0
+L3_real_012,dataset/images/L3_real_012.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1200,images/L3Real/commons_person_038.jpg,f2501118ac009670
+L3_real_013,dataset/images/L3_real_013.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1389,images/L3Real/commons_person_043.jpg,ea2b1f003e436bcc
+L3_real_014,dataset/images/L3_real_014.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_002.jpg,85b63c9eafa8d61c
+L3_real_015,dataset/images/L3_real_015.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1440,images/L3Real/commons_person_048.jpg,724e4539984e46f6
+L3_real_016,dataset/images/L3_real_016.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_003.jpg,f64d3e24783a96ee
+L3_real_017,dataset/images/L3_real_017.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_015.jpg,55300bf01a5d2449
+L3_real_018,dataset/images/L3_real_018.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_024.jpg,2d38568a050d8cf2
+L3_real_019,dataset/images/L3_real_019.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,669,images/L3Real/commons_person_032.jpg,b98414f22615913f
+L3_real_020,dataset/images/L3_real_020.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1200,images/L3Real/commons_person_034.jpg,64e648fa20c05b01
+L3_real_021,dataset/images/L3_real_021.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_017.jpg,6d265748e9a6634f
+L3_real_022,dataset/images/L3_real_022.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1280,images/L3Real/commons_person_042.jpg,ff7c84669b4d4b08
+L3_real_023,dataset/images/L3_real_023.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1338,images/L3Real/commons_person_049.jpg,4968d395a5437207
+L3_real_024,dataset/images/L3_real_024.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_020.jpg,855c7285d6400535
+L3_real_025,dataset/images/L3_real_025.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,640,images/L3Real/commons_person_047.jpg,0de92609fa846262
+L3_real_026,dataset/images/L3_real_026.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1403,images/L3Real/commons_person_039.jpg,b0164809654867e3
+L3_real_027,dataset/images/L3_real_027.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1350,images/L3Real/commons_person_028.jpg,e2701d56a7ec9672
+L3_real_028,dataset/images/L3_real_028.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_005.jpg,2cba3b64deac593e
+L3_real_029,dataset/images/L3_real_029.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,300,450,images/L3Real/commons_person_027.jpg,dfc803f481542fb4
+L3_real_030,dataset/images/L3_real_030.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,960,images/L3Real/commons_person_045.jpg,2ed7f171f4681bbd
+L3_real_031,dataset/images/L3_real_031.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1201,images/L3Real/commons_person_044.jpg,93737260447e05db
+L3_real_032,dataset/images/L3_real_032.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_010.jpg,8a56c8c05aa12e98
+L3_real_033,dataset/images/L3_real_033.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,467,638,images/L3Real/commons_person_033.jpg,8cb4f0b094ebe6b3
+L3_real_034,dataset/images/L3_real_034.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,train,250,250,images/L3Real/lfw_001.jpg,330505f0254056ff
+L3_real_035,dataset/images/L3_real_035.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,train,960,1200,images/L3Real/commons_person_041.jpg,fdf829a1adf308b7
+L3_real_036,dataset/images/L3_real_036.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,val,250,250,images/L3Real/lfw_012.jpg,f82f1fbf71148b6f
+L3_real_037,dataset/images/L3_real_037.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,val,960,1216,images/L3Real/commons_person_030.jpg,59a09b8975b87167
+L3_real_038,dataset/images/L3_real_038.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,val,960,1419,images/L3Real/commons_person_037.jpg,f553152e705a1632
+L3_real_039,dataset/images/L3_real_039.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,val,960,1281,images/L3Real/commons_person_031.jpg,e5b54e2ca59cc5c5
+L3_real_040,dataset/images/L3_real_040.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,val,250,250,images/L3Real/lfw_019.jpg,ee38d7262fd2f79d
+L3_real_041,dataset/images/L3_real_041.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,val,250,250,images/L3Real/lfw_022.jpg,74f09b433e915876
+L3_real_042,dataset/images/L3_real_042.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,val,384,512,images/L3Real/commons_person_036.jpg,b404404fefbadea6
+L3_real_043,dataset/images/L3_real_043.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,val,250,250,images/L3Real/lfw_009.jpg,957c9ba2a978faec
+L3_real_044,dataset/images/L3_real_044.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,test,250,250,images/L3Real/lfw_008.jpg,d3401ae1b50c32ff
+L3_real_045,dataset/images/L3_real_045.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,test,250,250,images/L3Real/lfw_006.jpg,62229a5d73c269a8
+L3_real_046,dataset/images/L3_real_046.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,test,250,250,images/L3Real/lfw_013.jpg,d11b6f0bc6bf88f1
+L3_real_047,dataset/images/L3_real_047.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,test,250,250,images/L3Real/lfw_025.jpg,c786a800125a26f7
+L3_real_048,dataset/images/L3_real_048.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,test,960,1280,images/L3Real/commons_person_029.jpg,27c715fcadfba08f
+L3_real_049,dataset/images/L3_real_049.jpg,L3,3,Identifiable people / national,real,0,2.5,wikimedia-commons,test,960,1307,images/L3Real/commons_person_046.jpg,e3d8bf0476c9da85
+L3_real_050,dataset/images/L3_real_050.jpg,L3,3,Identifiable people / national,real,0,2.5,lfw,test,250,250,images/L3Real/lfw_023.jpg,3167673b540f7ee3
+L4_fake_001,dataset/images/L4_fake_001.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_016.jpg,2d2255005e5941ab
+L4_fake_002,dataset/images/L4_fake_002.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_049.jpg,b176c479027c8855
+L4_fake_003,dataset/images/L4_fake_003.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_029.jpg,0392cadfed3f3b5b
+L4_fake_004,dataset/images/L4_fake_004.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_039.jpg,8fd9a0c7193536f6
+L4_fake_005,dataset/images/L4_fake_005.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_008.jpg,9d8a5add1f883997
+L4_fake_006,dataset/images/L4_fake_006.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_017.jpg,4c5649de347e176c
+L4_fake_007,dataset/images/L4_fake_007.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_024.jpg,0cbfb16a855b4d9e
+L4_fake_008,dataset/images/L4_fake_008.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_045.jpg,8dfc8b7195df3784
+L4_fake_009,dataset/images/L4_fake_009.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_035.jpg,7bbb935c83a8f880
+L4_fake_010,dataset/images/L4_fake_010.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_043.jpg,6c19c11964984834
+L4_fake_011,dataset/images/L4_fake_011.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_041.jpg,c0a765dba678daad
+L4_fake_012,dataset/images/L4_fake_012.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_007.jpg,306bbf9dfaba2fc0
+L4_fake_013,dataset/images/L4_fake_013.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_021.jpg,2e999722eeac5222
+L4_fake_014,dataset/images/L4_fake_014.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_048.jpg,004d31f4e124ae1a
+L4_fake_015,dataset/images/L4_fake_015.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_010.jpg,c64b989283f32cc5
+L4_fake_016,dataset/images/L4_fake_016.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_033.jpg,48da64cbfebe5c6d
+L4_fake_017,dataset/images/L4_fake_017.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_028.jpg,bcf985d5cfdceade
+L4_fake_018,dataset/images/L4_fake_018.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_012.jpg,0cdd6c4155c63ecd
+L4_fake_019,dataset/images/L4_fake_019.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_014.jpg,f0623360a238fb11
+L4_fake_020,dataset/images/L4_fake_020.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_032.jpg,3a1a8f66bfb08846
+L4_fake_021,dataset/images/L4_fake_021.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_040.jpg,ab4f828c2cd3f5c0
+L4_fake_022,dataset/images/L4_fake_022.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_050.jpg,89ee9d35b3c64e55
+L4_fake_023,dataset/images/L4_fake_023.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_019.jpg,dcc5590b4f922efb
+L4_fake_024,dataset/images/L4_fake_024.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_006.jpg,177682859243d374
+L4_fake_025,dataset/images/L4_fake_025.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_009.jpg,e8f78dc8e987ccb7
+L4_fake_026,dataset/images/L4_fake_026.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_004.jpg,12620420a2bba059
+L4_fake_027,dataset/images/L4_fake_027.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_001.jpg,5582e706cd6d095f
+L4_fake_028,dataset/images/L4_fake_028.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_011.jpg,097ecc4b4e80bb55
+L4_fake_029,dataset/images/L4_fake_029.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_034.jpg,081ce447ca7dea54
+L4_fake_030,dataset/images/L4_fake_030.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_027.jpg,90a16b86199c59c9
+L4_fake_031,dataset/images/L4_fake_031.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_037.jpg,fb758f23b69aa485
+L4_fake_032,dataset/images/L4_fake_032.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_038.jpg,7ffe5b6876ffab6e
+L4_fake_033,dataset/images/L4_fake_033.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_044.jpg,5bf67f331439c529
+L4_fake_034,dataset/images/L4_fake_034.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_036.jpg,f5cd6447442acbec
+L4_fake_035,dataset/images/L4_fake_035.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,train,512,512,images/L4DeepFake/sd_political_005.jpg,1ae833475508f078
+L4_fake_036,dataset/images/L4_fake_036.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_018.jpg,d98dcbd82174cdc0
+L4_fake_037,dataset/images/L4_fake_037.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_022.jpg,fef7b35a7bb3ee44
+L4_fake_038,dataset/images/L4_fake_038.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_026.jpg,f2eafeb6b4849967
+L4_fake_039,dataset/images/L4_fake_039.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_046.jpg,1985dc5b5530f7b4
+L4_fake_040,dataset/images/L4_fake_040.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_002.jpg,b0a3bcc8d411d07c
+L4_fake_041,dataset/images/L4_fake_041.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_042.jpg,7704baad6965a28f
+L4_fake_042,dataset/images/L4_fake_042.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_047.jpg,ceb85f995006a48f
+L4_fake_043,dataset/images/L4_fake_043.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,val,512,512,images/L4DeepFake/sd_political_020.jpg,9b3ba34b5deac824
+L4_fake_044,dataset/images/L4_fake_044.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_023.jpg,41bc261a55bfea1d
+L4_fake_045,dataset/images/L4_fake_045.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_030.jpg,e72aff284ee4e3b7
+L4_fake_046,dataset/images/L4_fake_046.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_013.jpg,32b24019b14eb898
+L4_fake_047,dataset/images/L4_fake_047.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_015.jpg,88e938782af846e8
+L4_fake_048,dataset/images/L4_fake_048.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_031.jpg,5e87ae3ed4491006
+L4_fake_049,dataset/images/L4_fake_049.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_003.jpg,38eb6808a65c4389
+L4_fake_050,dataset/images/L4_fake_050.jpg,L4,4,International / political,fake,1,3.5,stable-diffusion-1.5,test,512,512,images/L4DeepFake/sd_political_025.jpg,c359bb28b11e3db3
+L4_real_001,dataset/images/L4_real_001.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_090.jpg,a535f8dab1efb517
+L4_real_002,dataset/images/L4_real_002.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,752,images/L4Real/commons_pol_089.jpg,57713d6a60e63fa3
+L4_real_003,dataset/images/L4_real_003.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_131.jpg,961fb0673f12c879
+L4_real_004,dataset/images/L4_real_004.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_139.jpg,596f7d64a118584e
+L4_real_005,dataset/images/L4_real_005.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,635,images/L4Real/commons_pol_111.jpg,bc9fa87dbdc146d3
+L4_real_006,dataset/images/L4_real_006.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,1438,images/L4Real/commons_pol_096.jpg,74c2dbeb3bfbc5b6
+L4_real_007,dataset/images/L4_real_007.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_082.jpg,9662073bba9b06cf
+L4_real_008,dataset/images/L4_real_008.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,645,images/L4Real/commons_pol_059.jpg,ef399e0ac254afc1
+L4_real_009,dataset/images/L4_real_009.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,617,images/L4Real/commons_pol_127.jpg,fe007d9e155c44a8
+L4_real_010,dataset/images/L4_real_010.jpg,L4,4,International / political,real,0,3.5,openfake-real,train,650,442,images/L4Real/openfake_pol_real_027.jpg,c73517d1ecc3d996
+L4_real_011,dataset/images/L4_real_011.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,1280,images/L4Real/commons_pol_109.jpg,1a11533ee928d408
+L4_real_012,dataset/images/L4_real_012.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,720,images/L4Real/commons_pol_088.jpg,729c84eb82131afd
+L4_real_013,dataset/images/L4_real_013.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_086.jpg,ba01c6378d972522
+L4_real_014,dataset/images/L4_real_014.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,658,images/L4Real/commons_pol_128.jpg,3e97b2b75e69a775
+L4_real_015,dataset/images/L4_real_015.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,720,images/L4Real/commons_pol_094.jpg,8a9efd5f91162f41
+L4_real_016,dataset/images/L4_real_016.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,1440,images/L4Real/commons_pol_105.jpg,c93c33f3909a558d
+L4_real_017,dataset/images/L4_real_017.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_145.jpg,6443b1a3e6db55f6
+L4_real_018,dataset/images/L4_real_018.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,601,images/L4Real/commons_pol_087.jpg,637106c12c63ce64
+L4_real_019,dataset/images/L4_real_019.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,540,images/L4Real/commons_pol_091.jpg,d4a0e9415b67363f
+L4_real_020,dataset/images/L4_real_020.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_123.jpg,4d1ee271f31f6b2e
+L4_real_021,dataset/images/L4_real_021.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,641,images/L4Real/commons_pol_047.jpg,aaa441d4c8db11c0
+L4_real_022,dataset/images/L4_real_022.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,638,images/L4Real/commons_pol_126.jpg,76102ff9d6a19748
+L4_real_023,dataset/images/L4_real_023.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_148.jpg,2a4656bedec76669
+L4_real_024,dataset/images/L4_real_024.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,643,images/L4Real/commons_pol_101.jpg,2bcb620a6f74e692
+L4_real_025,dataset/images/L4_real_025.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,720,images/L4Real/commons_pol_065.jpg,f83689c07b1ae436
+L4_real_026,dataset/images/L4_real_026.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,631,images/L4Real/commons_pol_085.jpg,614ec71618025169
+L4_real_027,dataset/images/L4_real_027.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,639,images/L4Real/commons_pol_039.jpg,0d68ec7a7435b8ba
+L4_real_028,dataset/images/L4_real_028.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,636,images/L4Real/commons_pol_134.jpg,c74daae1676702ee
+L4_real_029,dataset/images/L4_real_029.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,1477,images/L4Real/commons_pol_110.jpg,5d9e6bfcd02fadf5
+L4_real_030,dataset/images/L4_real_030.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,670,images/L4Real/commons_pol_121.jpg,ede8024c2da70c35
+L4_real_031,dataset/images/L4_real_031.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,637,images/L4Real/commons_pol_118.jpg,00b52c5db67c3095
+L4_real_032,dataset/images/L4_real_032.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,640,images/L4Real/commons_pol_136.jpg,9ccaecabc40bf0e6
+L4_real_033,dataset/images/L4_real_033.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,720,images/L4Real/commons_pol_095.jpg,f418b6b02e2139f9
+L4_real_034,dataset/images/L4_real_034.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,598,images/L4Real/commons_pol_137.jpg,1071364dcf892a2f
+L4_real_035,dataset/images/L4_real_035.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,train,960,720,images/L4Real/commons_pol_069.jpg,037b7c753a043fed
+L4_real_036,dataset/images/L4_real_036.jpg,L4,4,International / political,real,0,3.5,openfake-real,val,768,432,images/L4Real/openfake_pol_real_018.jpg,2b9286fc7841816c
+L4_real_037,dataset/images/L4_real_037.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,val,960,640,images/L4Real/commons_pol_144.jpg,2f352a355d27edd7
+L4_real_038,dataset/images/L4_real_038.jpg,L4,4,International / political,real,0,3.5,openfake-real,val,1024,680,images/L4Real/openfake_pol_real_015.jpg,f185c104e8c32500
+L4_real_039,dataset/images/L4_real_039.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,val,960,607,images/L4Real/commons_pol_132.jpg,b13f98a830c053a2
+L4_real_040,dataset/images/L4_real_040.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,val,960,960,images/L4Real/commons_pol_107.jpg,fe4676c7b46d47f8
+L4_real_041,dataset/images/L4_real_041.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,val,960,960,images/L4Real/commons_pol_040.jpg,d5cec47f17d7a0ae
+L4_real_042,dataset/images/L4_real_042.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,val,960,540,images/L4Real/commons_pol_129.jpg,eb9749a4115c78de
+L4_real_043,dataset/images/L4_real_043.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,val,960,640,images/L4Real/commons_pol_080.jpg,78f202125cc9b808
+L4_real_044,dataset/images/L4_real_044.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,test,960,638,images/L4Real/commons_pol_053.jpg,25e9d042140a6df3
+L4_real_045,dataset/images/L4_real_045.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,test,960,641,images/L4Real/commons_pol_068.jpg,a632bed90a5305d4
+L4_real_046,dataset/images/L4_real_046.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,test,960,769,images/L4Real/commons_pol_028.jpg,302693ebbf0794ef
+L4_real_047,dataset/images/L4_real_047.jpg,L4,4,International / political,real,0,3.5,openfake-real,test,1440,1080,images/L4Real/openfake_pol_real_031.jpg,a39becfdb89b3402
+L4_real_048,dataset/images/L4_real_048.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,test,960,637,images/L4Real/commons_pol_116.jpg,eb089f57e5c5d883
+L4_real_049,dataset/images/L4_real_049.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,test,960,640,images/L4Real/commons_pol_149.jpg,33ab0905083723bd
+L4_real_050,dataset/images/L4_real_050.jpg,L4,4,International / political,real,0,3.5,wikimedia-commons,test,960,636,images/L4Real/commons_pol_130.jpg,76dabff7b0d3cc76
+L5_fake_001,dataset/images/L5_fake_001.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_028.jpg,5925814e24424b63
+L5_fake_002,dataset/images/L5_fake_002.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_019.jpg,fc7d62031bc90720
+L5_fake_003,dataset/images/L5_fake_003.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_024.jpg,92c3b045d64be967
+L5_fake_004,dataset/images/L5_fake_004.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_012.jpg,33bd7eec9061d130
+L5_fake_005,dataset/images/L5_fake_005.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_042.jpg,0c8dd984c4b5c35d
+L5_fake_006,dataset/images/L5_fake_006.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_034.jpg,7f6959baab62ae07
+L5_fake_007,dataset/images/L5_fake_007.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_007.jpg,3d50c76c5418833d
+L5_fake_008,dataset/images/L5_fake_008.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_022.jpg,7b4ecceb164fa1b4
+L5_fake_009,dataset/images/L5_fake_009.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_046.jpg,aa3611fed5b892b9
+L5_fake_010,dataset/images/L5_fake_010.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_009.jpg,16f43bf27673c410
+L5_fake_011,dataset/images/L5_fake_011.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_011.jpg,97498064ff7bdf9a
+L5_fake_012,dataset/images/L5_fake_012.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_049.jpg,181dae024ac9bad0
+L5_fake_013,dataset/images/L5_fake_013.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_036.jpg,cf8363bb5fb38882
+L5_fake_014,dataset/images/L5_fake_014.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_050.jpg,8089b7cd347f8a38
+L5_fake_015,dataset/images/L5_fake_015.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_039.jpg,dbcb1db75a878aa9
+L5_fake_016,dataset/images/L5_fake_016.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_033.jpg,87d66477c14697da
+L5_fake_017,dataset/images/L5_fake_017.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_029.jpg,b29e3c5e30a78b21
+L5_fake_018,dataset/images/L5_fake_018.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_018.jpg,511f3ea4e1110e52
+L5_fake_019,dataset/images/L5_fake_019.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_045.jpg,019ee0b8cba76e0d
+L5_fake_020,dataset/images/L5_fake_020.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_048.jpg,28059d7838b38d77
+L5_fake_021,dataset/images/L5_fake_021.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_017.jpg,6ff5ae123040f0ca
+L5_fake_022,dataset/images/L5_fake_022.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_006.jpg,194422517b4cf9d9
+L5_fake_023,dataset/images/L5_fake_023.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_008.jpg,5b57f321f8ec744b
+L5_fake_024,dataset/images/L5_fake_024.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_014.jpg,566d5aad7e20fba5
+L5_fake_025,dataset/images/L5_fake_025.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_004.jpg,9062dd753f9ff185
+L5_fake_026,dataset/images/L5_fake_026.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_038.jpg,cd0d06a788c8cf3c
+L5_fake_027,dataset/images/L5_fake_027.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_035.jpg,5196d7a0aa09b92c
+L5_fake_028,dataset/images/L5_fake_028.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_001.jpg,352ca4fd9b2cdad9
+L5_fake_029,dataset/images/L5_fake_029.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_023.jpg,914e1b04969dba8a
+L5_fake_030,dataset/images/L5_fake_030.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_021.jpg,09a0be0ea3d5e621
+L5_fake_031,dataset/images/L5_fake_031.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_041.jpg,819c1e76a70f3ea2
+L5_fake_032,dataset/images/L5_fake_032.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_043.jpg,43821fbda5dfb1d7
+L5_fake_033,dataset/images/L5_fake_033.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_026.jpg,c8f773ddf67689d0
+L5_fake_034,dataset/images/L5_fake_034.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_032.jpg,a496baf14781ef28
+L5_fake_035,dataset/images/L5_fake_035.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,train,512,512,images/L5DeepFake/sd_conflict_025.jpg,eb7268ecea3d0844
+L5_fake_036,dataset/images/L5_fake_036.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_047.jpg,b0cdbced2d1e62c1
+L5_fake_037,dataset/images/L5_fake_037.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_037.jpg,d7ca8c5c2f120493
+L5_fake_038,dataset/images/L5_fake_038.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_027.jpg,46e88d814cdfea71
+L5_fake_039,dataset/images/L5_fake_039.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_030.jpg,de9c11bd1e4b0ea1
+L5_fake_040,dataset/images/L5_fake_040.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_005.jpg,9a2eb7ec8fa2bd8e
+L5_fake_041,dataset/images/L5_fake_041.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_040.jpg,09c6548d544130ab
+L5_fake_042,dataset/images/L5_fake_042.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_031.jpg,b4365ce59d32ee77
+L5_fake_043,dataset/images/L5_fake_043.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,val,512,512,images/L5DeepFake/sd_conflict_016.jpg,46ceb8075f96f4f8
+L5_fake_044,dataset/images/L5_fake_044.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_003.jpg,fe6003dc2c96acc0
+L5_fake_045,dataset/images/L5_fake_045.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_002.jpg,ab009a9308d371f5
+L5_fake_046,dataset/images/L5_fake_046.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_010.jpg,fe531cc76fb69b67
+L5_fake_047,dataset/images/L5_fake_047.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_013.jpg,0c946d8fde503495
+L5_fake_048,dataset/images/L5_fake_048.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_015.jpg,39c5690ebd65c575
+L5_fake_049,dataset/images/L5_fake_049.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_020.jpg,bcbeeedaf7591a1d
+L5_fake_050,dataset/images/L5_fake_050.jpg,L5,5,Military / armed conflict,fake,1,4.0,stable-diffusion-1.5,test,512,512,images/L5DeepFake/sd_conflict_044.jpg,ea03e76e010f6af8
+L5_real_001,dataset/images/L5_real_001.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,686,images/L5Real/commons_mil_098.jpg,3bc5e41ff823e8e4
+L5_real_002,dataset/images/L5_real_002.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_041.jpg,ac99b06180390a54
+L5_real_003,dataset/images/L5_real_003.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_071.jpg,0a981bf88404ccab
+L5_real_004,dataset/images/L5_real_004.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,686,images/L5Real/commons_mil_090.jpg,fc59ba511f7cd6b6
+L5_real_005,dataset/images/L5_real_005.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,467,images/L5Real/commons_mil_066.jpg,364dd8565b20389e
+L5_real_006,dataset/images/L5_real_006.jpg,L5,5,Military / armed conflict,real,0,4.0,openfake-real,train,320,214,images/L5Real/openfake_mil_real_045.jpg,1ac308f131d02b44
+L5_real_007,dataset/images/L5_real_007.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_068.jpg,51de8d346090e613
+L5_real_008,dataset/images/L5_real_008.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_007.jpg,988036a881a0b4aa
+L5_real_009,dataset/images/L5_real_009.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_009.jpg,5168a7b2240d446b
+L5_real_010,dataset/images/L5_real_010.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_060.jpg,5908b8f685fd3aaf
+L5_real_011,dataset/images/L5_real_011.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,1440,images/L5Real/commons_mil_081.jpg,8c284f76c08c3963
+L5_real_012,dataset/images/L5_real_012.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_020.jpg,84a9bd120e5d8872
+L5_real_013,dataset/images/L5_real_013.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,540,images/L5Real/commons_mil_054.jpg,bbdc29b20fede6b9
+L5_real_014,dataset/images/L5_real_014.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_050.jpg,94dd32463fab2282
+L5_real_015,dataset/images/L5_real_015.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_111.jpg,9438e65c89efeee7
+L5_real_016,dataset/images/L5_real_016.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,540,images/L5Real/commons_mil_048.jpg,2ffa5c73e482f187
+L5_real_017,dataset/images/L5_real_017.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_040.jpg,9b4cb5a11e87e62e
+L5_real_018,dataset/images/L5_real_018.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_043.jpg,f6bff0f6033cfdd7
+L5_real_019,dataset/images/L5_real_019.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_026.jpg,51fe7b7a033a5249
+L5_real_020,dataset/images/L5_real_020.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,686,images/L5Real/commons_mil_092.jpg,77b348ee31170f10
+L5_real_021,dataset/images/L5_real_021.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_073.jpg,36a5b8dd30171029
+L5_real_022,dataset/images/L5_real_022.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_006.jpg,7cfa18b95de3bca7
+L5_real_023,dataset/images/L5_real_023.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_055.jpg,918b71bf3efefcad
+L5_real_024,dataset/images/L5_real_024.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_079.jpg,8517a389ddba8e6e
+L5_real_025,dataset/images/L5_real_025.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,771,images/L5Real/commons_mil_036.jpg,63a23c6944e177db
+L5_real_026,dataset/images/L5_real_026.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_088.jpg,113e7dd8e2aa7606
+L5_real_027,dataset/images/L5_real_027.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,686,images/L5Real/commons_mil_097.jpg,b6b2204b1a57e68d
+L5_real_028,dataset/images/L5_real_028.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,659,images/L5Real/commons_mil_025.jpg,fb3911fb780f5119
+L5_real_029,dataset/images/L5_real_029.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_067.jpg,cfaaa0970da13cc0
+L5_real_030,dataset/images/L5_real_030.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,639,images/L5Real/commons_mil_061.jpg,95954ec5e66a2397
+L5_real_031,dataset/images/L5_real_031.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_116.jpg,891763d96f1771bb
+L5_real_032,dataset/images/L5_real_032.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,540,images/L5Real/commons_mil_062.jpg,b7b65f651874c64b
+L5_real_033,dataset/images/L5_real_033.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_114.jpg,28f7b9b726fc000e
+L5_real_034,dataset/images/L5_real_034.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,720,images/L5Real/commons_mil_042.jpg,18f8b81d5ed710dc
+L5_real_035,dataset/images/L5_real_035.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,train,960,640,images/L5Real/commons_mil_031.jpg,94e75459a80e46d0
+L5_real_036,dataset/images/L5_real_036.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,640,images/L5Real/commons_mil_086.jpg,3da1aae29afb704d
+L5_real_037,dataset/images/L5_real_037.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,640,images/L5Real/commons_mil_056.jpg,9733e86df4afee8c
+L5_real_038,dataset/images/L5_real_038.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,1280,images/L5Real/commons_mil_063.jpg,b274ab65dcd33d8e
+L5_real_039,dataset/images/L5_real_039.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,686,images/L5Real/commons_mil_113.jpg,6598849fefa9296a
+L5_real_040,dataset/images/L5_real_040.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,540,images/L5Real/commons_mil_065.jpg,4006be76480cab7e
+L5_real_041,dataset/images/L5_real_041.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,640,images/L5Real/commons_mil_112.jpg,e20a9149e4c705fb
+L5_real_042,dataset/images/L5_real_042.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,640,images/L5Real/commons_mil_076.jpg,9a8f1ba1374ed24e
+L5_real_043,dataset/images/L5_real_043.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,val,960,640,images/L5Real/commons_mil_057.jpg,fc7649a35225e49f
+L5_real_044,dataset/images/L5_real_044.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,640,images/L5Real/commons_mil_030.jpg,e5ae4b72a97a1ac3
+L5_real_045,dataset/images/L5_real_045.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,640,images/L5Real/commons_mil_117.jpg,9ac0256374cee525
+L5_real_046,dataset/images/L5_real_046.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,640,images/L5Real/commons_mil_058.jpg,df6b169ea7b69b9e
+L5_real_047,dataset/images/L5_real_047.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,686,images/L5Real/commons_mil_093.jpg,cbaa2842fc1c92b0
+L5_real_048,dataset/images/L5_real_048.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,640,images/L5Real/commons_mil_059.jpg,896308763b489332
+L5_real_049,dataset/images/L5_real_049.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,1280,images/L5Real/commons_mil_106.jpg,c0f9af9cc299a7ed
+L5_real_050,dataset/images/L5_real_050.jpg,L5,5,Military / armed conflict,real,0,4.0,wikimedia-commons,test,960,1459,images/L5Real/commons_mil_024.jpg,405a92927a664198
