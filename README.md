@@ -36,18 +36,20 @@ copies that training actually reads, and `dataset_manifest.csv` the labels.
 ## Two design decisions worth knowing about
 
 **Normalisation is not cosmetic.** The raw pool mixes 256px ABO thumbnails,
-1024px StyleGAN PNGs and 512px diffusion output. A detector trained on that
+1024px StyleGAN PNGs and 512px diffusion output. The usage of different format and dimension was due the differences in creating the images. It's obvious that Wikimedia will have different images dimensions than for example unSplash API. A detector trained on that
 pool can hit high accuracy by reading resolution and compression history rather
 than synthesis artefacts. `05_build_manifest.py` centre-crops everything to a
 square, resizes to 512 and re-encodes as JPEG q95, so every class shares one
-encoding history.
+encoding history. Accuracy may be impacted? Probably, perhaps possible, but avoiding this could have been worse.
 
 **Content is matched within a level.** If L1's real half were only COCO scenes
 and its fake half only GAN faces, the classifier would separate the classes on
 "face vs scene". L1 is therefore 25 scenes + 25 faces on *both* sides, L2's
 fakes are img2img renders seeded from the real ABO photos, and L5's fakes are
-conflict scenes paired against real conflict photography. Two consequences of
-that rule are worth spelling out:
+conflict scenes paired against real conflict photography. The database construction tried to use as much as possible different sources and NOT use Stable diffusion, trying to get "real" (or at least commercially available) deepfake. Also the insane weight of the stable diffusion was deemed a limit (Author's MacBook Air M2 almost melted during L3 stable diffusion) and therefore other work was done on the other author machine as deemed better, but still extremely heavy. Classification of the images (i.e labelling) was all handmade using the notebook machine internal script (which was used outside). 
+
+
+Therefore Two consequences of that rule are worth spelling out:
 
 * **L4/L5 real halves come from Wikimedia Commons, not OpenFake.** OpenFake's
   real half is LAION/ImageNet with free-text captions and no topic labels;
@@ -58,10 +60,11 @@ that rule are worth spelling out:
   level-appropriate descriptions, rejecting near-duplicate frames of the same
   event. Commons wins almost every slot; the OpenFake political/military
   *fakes* turned out to be off-topic too, which is why L4's deepfakes are
-  generated locally.
+  generated locally. OpenFake at the end created more problems than anything, and was deemed pretty much a stop more than a resource.
+  
 * **L3's real half is half LFW, half press photography.** LFW is 250x250, so
   after normalisation to 512 it is visibly soft while the synthetic half is
-  natively sharp — a detector could separate them on blur alone.
+  natively sharp — a detector could separate them on blur alone. Author's personal photos were analysed to be used, but a combination of extreme resolution (even a normal iPhone picture is 24Mpx), HDR in almost all pictures, HEIC format as a nightmare, and the same faces repeated all over again made this a less appealing option.
 
 ## Labels
 
