@@ -27,6 +27,7 @@ python scripts/04_topup_l1_fake.py          # StyleGAN2 faces for L1
 python scripts/05_build_manifest.py         # normalise, label, split
 python scripts/06_train.py --epochs 25      # train A, B and the ablation
 python scripts/07_report.py                 # figures + results/REPORT.md
+python scripts/08_pretrained_baseline.py    # off-the-shelf detectors on our strata
 ```
 
 `images/` holds the raw downloads and generations, one folder per level and
@@ -115,6 +116,59 @@ with every mistake priced by its level's weight. Every configuration is trained
 with three seeds, because a ~90-image test split moves by a couple of points
 between seeds on its own. Results, per-level breakdowns and all figures land in
 `results/REPORT.md`.
+
+## Benchmarking pre-trained detectors
+
+Before our own models, the dataset is used the way a benchmark is meant to be
+used: four public, off-the-shelf detectors are run on it zero-shot, stratified
+by sensitivity level. Nothing is fine-tuned, and every checkpoint sees exactly
+the images our models see -- same normalisation, same manifest, same splits.
+
+| detector | ROC-AUC | severity-weighted risk | L3-L5 error |
+|---|---|---|---|
+| `haywoodsloan/ai-image-detector-deploy` (SwinV2) | 0.821 | 0.261 | 0.238 |
+| `Organika/sdxl-detector` (SwinV2) | 0.753 | 0.319 | 0.333 |
+| `Ateeqq/ai-vs-human-image-detector` (SigLIP) | 0.672 | 0.398 | 0.381 |
+| `prithivMLmods/Deep-Fake-Detector-v2-Model` (ViT) | 0.422 | 0.522 | 0.524 |
+| Model A (ours, flat) | 0.908 | 0.181 | 0.167 |
+| Model B (ours, severity-aware) | 0.896 | **0.145** | **0.103** |
+
+Test split, 84 images. Two operating points are reported for each checkpoint:
+its own 0.5 threshold, and a threshold chosen on our train+val split. Ranking,
+not calibration, is what separates them.
+
+The face-specialised ViT sitting at chance is the point of a stratified
+benchmark: a single accuracy number would have hidden the fact that it fails on
+everything that is not a face. Full tables, per-level breakdown and caveats in
+`results/PRETRAINED_BASELINE.md`.
+
+## Ethics
+
+A sensitivity-aware detector is, by construction, a system that decides some
+content deserves more scrutiny than other content. Three things follow, and we
+would rather state them than let them be inferred.
+
+**The taxonomy is policy, not measurement.** Our scale encodes a Western,
+journalistic reading of harm. A model trained on it is most careful about what
+*we* found alarming; a different scale would move that attention somewhere else.
+Anyone reusing this should treat the level definitions as an editorial choice to
+be argued with, not a property of the images.
+
+**The error cost is asymmetric on purpose.** Pushing errors away from L5 means
+accepting more of them at L1 -- the levels where ordinary people's photographs
+live get the less careful model. That is a defensible trade for a newsroom or a
+platform escalation queue, and it is not defensible as a silent default. Our L1
+accuracy does drop under Model B, and the report says so.
+
+**Flagging is one step from ranking.** A system that scores content by political
+sensitivity is trivially repurposed into one that ranks or suppresses political
+content. The severity head is a triage aid and belongs behind a human reviewer,
+not in front of an automatic takedown. Nothing here should be used to make an
+irreversible decision about a specific image or a specific person.
+
+Finally, the synthetic imagery: it exists to train and evaluate a detector, it
+depicts no real person, event or brand, and every generated file is marked as
+synthetic in its EXIF.
 
 ## The 10 vs 12 category question
 During the development, and image research, level 4 (International Danger) and 5 (military danger) were as we went more and more similar, especially in today perspective, Therefore L4 and L5 were basically fused (also, not so many fake war picture exist) and considered as almost the same. Different countries have different threshold for the use of force...
