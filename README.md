@@ -26,7 +26,6 @@ python scripts/03_generate_fakes_sd.py L4   # political fakes (top-up set)
 python scripts/04_topup_l1_fake.py          # StyleGAN2 faces for L1
 python scripts/05_build_manifest.py         # normalise, label, split
 python scripts/06_train.py --epochs 25      # train A, B and the ablation
-python scripts/07_report.py                 # figures + results/REPORT.md
 python scripts/08_pretrained_baseline.py    # off-the-shelf detectors on our strata
 ```
 
@@ -115,7 +114,7 @@ The headline comparison metric is **severity-weighted risk**: the error rate
 with every mistake priced by its level's weight. Every configuration is trained
 with three seeds, because a ~90-image test split moves by a couple of points
 between seeds on its own. Results, per-level breakdowns and all figures land in
-`results/REPORT.md`.
+`results/`.
 
 ## Benchmarking pre-trained detectors
 
@@ -139,8 +138,8 @@ not calibration, is what separates them.
 
 The face-specialised ViT sitting at chance is the point of a stratified
 benchmark: a single accuracy number would have hidden the fact that it fails on
-everything that is not a face. Full tables, per-level breakdown and caveats in
-`results/PRETRAINED_BASELINE.md`.
+everything that is not a face. Per-detector scores, both operating points and
+the per-level breakdown are in `results/pretrained_baseline.json`.
 
 ## Ethics
 
@@ -186,6 +185,26 @@ The synthetic images exist to train and evaluate a detector. They depict no
 real person, no real event and no real brand; product prompts are generic
 categories rather than trademarks, and portrait prompts specify fictional
 subjects. Each generated file is marked as synthetic in its EXIF.
+
+## Report figures
+
+![dataset composition](results/figures/01_dataset_composition.png)
+
+![samples](results/figures/01b_samples.png)
+
+![training curves](results/figures/02_training_curves.png)
+
+![overall metrics](results/figures/03_overall_metrics.png)
+
+![per level](results/figures/04_per_level.png)
+
+![roc](results/figures/05_roc.png)
+
+![confusion](results/figures/06_confusion.png)
+
+![risk breakdown](results/figures/07_risk_breakdown.png)
+
+![pre-trained detectors vs ours](results/figures/08_pretrained_vs_ours.png)
 
 ## SOURCES, AI, DISCLAIMER
 
